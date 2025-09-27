@@ -4,11 +4,6 @@ This repository contains various machine learning models and data analysis scrip
 
 ---
 
-## Repository Structure
-. ├── 150Cvalidationdata.csv # Validation data for the models ├── ANNforbetatitanium.ipynb # ANN implementation for beta titanium ├── modifiedzamodel.ipynb # Main data analysis and modeling notebook ├── RFRforbetatitanium.ipynb # Random Forest Regression implementation ├── Ridgeforbetatitanium.ipynb # Ridge Regression implementation ├── SVRforbetatitanium.ipynb # Support Vector Regression implementation ├── truedata.csv # Original dataset ├── validationdataplots.ipynb # Notebook for generating validation plots ├── XGBforbetatitanium.ipynb # XGBoost implementation └── .ipynb_checkpoints/ # Auto-saved checkpoints for notebooks
-
----
-
 ## Notebooks Overview
 
 - **`modifiedzamodel.ipynb`**: The primary notebook for data preprocessing, feature engineering, and model fitting. It includes steps like plotting, regression analysis, and exporting results.
